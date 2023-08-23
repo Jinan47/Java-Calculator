@@ -1,7 +1,5 @@
 # Java Calculator
 
-![Java Calculator](calculator.jpg)
-
 The Java Calculator is a simple command-line calculator application written in Java that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It's designed to help you quickly perform calculations without the need for a graphical user interface.
 
 ## Features
@@ -18,7 +16,7 @@ Follow these steps to get started with the Java Calculator:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/java-calculator.git
+    git clone https://github.com/Jinan47/Java-Calculator.git
     ```
 
 2. **Compile the code:**
@@ -26,7 +24,7 @@ Follow these steps to get started with the Java Calculator:
     Navigate to the project directory and compile the Java code using the following command:
 
     ```bash
-    javac Calculator.java
+    calculator.java
     ```
 
 3. **Run the calculator:**
@@ -34,7 +32,7 @@ Follow these steps to get started with the Java Calculator:
     Run the compiled Java code using the following command:
 
     ```bash
-    java Calculator
+    java calculator
     ```
 
 4. **Perform calculations:**
@@ -61,4 +59,4 @@ Contributions are welcome! If you find any issues or want to enhance the calcula
 
 ---
 
-Happy calculating! If you have any questions or suggestions, feel free to [open an issue](https://github.com/yourusername/java-calculator/issues). We hope you find this Java Calculator useful for your basic arithmetic calculations.
+Happy calculating! If you have any questions or suggestions, feel free to [open an issue](https://github.com/Jinan47/Java-Calculator/issues). We hope you find this Java Calculator useful for your basic arithmetic calculations.
